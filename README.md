@@ -41,11 +41,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=WahidulIslamAbhishek&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📈 Profile Summary Cards
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WahidulIslamAbhishek&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WahidulIslamAbhishek&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WahidulIslamAbhishek&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WahidulIslamAbhishek&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WahidulIslamAbhishek&theme=github_dark&utcOffset=6)
+![](https://raw.githubusercontent.com/WahidulIslamAbhishek/WahidulIslamAbhishek/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/WahidulIslamAbhishek/WahidulIslamAbhishek/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/WahidulIslamAbhishek/WahidulIslamAbhishek/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/WahidulIslamAbhishek/WahidulIslamAbhishek/main/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/WahidulIslamAbhishek/WahidulIslamAbhishek/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WahidulIslamAbhishek&icon=0&color=0)](https://visitcount.itsvg.in)
