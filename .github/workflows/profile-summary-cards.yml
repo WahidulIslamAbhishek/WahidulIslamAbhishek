@@ -16,4 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: WahidulIslamAbhishek
-          BRANCH: main
+          BRANCH_NAME: main
