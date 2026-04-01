@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Wahidul Islam Abhishek</h1>
 <h3 align="center">Cybersecurity Engineer | Digital Forensics Enthusiast | Founder and CEO of Cybernetics IT</h3>
+Focused on cybersecurity, digital forensics and building practical technology solutions.
 
 ## 💫 About Me
 🔭 I’m currently working on **Cybersecurity, Digital Forensics and security-focused software solutions**
